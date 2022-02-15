@@ -15,4 +15,4 @@ All Stacks Advocate activties are tracked in the [issues tab of this repository]
 
 More information can be found on the [Stacks Advocates page](https://community.stacks.org/advocates), including applications, eligibility, expectations, and benefits.
 
-If you have any questions, tag @jennymith or look for `jenny Ӿ | Stacks Foundation#3493` on the [Stacks Discord](https://stacks.chat).
+If you have any questions, a [help channel](https://discord.com/channels/621759717756370964/872562193441382400) is available in Discord. If you cannot see this channel, you first have to react with 🔎  for Advocates DAO & Moderation in the [add roles channel](https://discord.com/channels/621759717756370964/895788738326720512) of the  [Stacks Discord](https://stacks.chat).
