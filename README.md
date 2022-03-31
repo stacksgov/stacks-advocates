@@ -1,18 +1,12 @@
 # Stacks Advocates Program
 
-Become a leader of the user-owned internet!
+Stacks Advocates grow the community by creating educational content for end users, hosting virtual meetups to build local Stacks communities, write smart contracts to help developers build apps, and much, much more.
 
-Stacks Advocates grow the community by creating educational content for end users, hosting virtual meetups to build local Stacks communities, write smart contracts to help developers build apps, and more.
+To join the Stacks Advocates program please reach out to the group on the [Stacks Discord](https://stacks.chat).
 
-How the program works:
+If you do not see the correct channels:
 
-1. Apply
-2. Contribute
-3. Reach Consensus
-4. Get rewarded, Repeat
-
-All Stacks Advocate activties are tracked in the [issues tab of this repository](https://github.com/stacksgov/stacks-advocates/issues).
-
-More information can be found on the [Stacks Advocates page](https://community.stacks.org/advocates), including applications, eligibility, expectations, and benefits.
-
-If you have any questions, a [help channel](https://discord.com/channels/621759717756370964/872562193441382400) is available in Discord. If you cannot see this channel, you first have to react with 🔎  for Advocates DAO & Moderation in the [add roles channel](https://discord.com/channels/621759717756370964/895788738326720512) of the  [Stacks Discord](https://stacks.chat).
+1. Under `Start Here -> add-roles` at the top, react with 🔎 to see the **Advocates DAO & Moderation**
+2. This will show the `advoӾ dao` channels on the left
+3. Read through `advoӾ dao -> start-here` to learn more and get involved
+4. If you have any questions, post in the `advoӾ dao -> help` channel
